@@ -6,7 +6,7 @@ from veri_yukleyici import veri_jeneratorlerini_hazirla
 # --- AYARLAR ---
 VERI_SETI_YOLU = r"C:\Users\Esra Alataş\Downloads\archive\chest_xray\chest_xray"
 IMG_BOYUTU = 224
-EPOCH_SAYISI = 5
+EPOCH_SAYISI = 10
 def baslat():
   # 1. Klasör Kontrolü
   if not os.path.exists(VERI_SETI_YOLU):
