@@ -1,4 +1,5 @@
-Masaüstü Entegreli Pnömoni (Zatürre) Teşhis Sistemi
+🧠 Masaüstü Entegreli Pnömoni (Zatürre) Teşhis Sistemi
+
 Bu proje, göğüs röntgeni (X-Ray) görüntülerini derin öğrenme algoritmalarıyla analiz ederek pnömoni teşhisi koyan ve doktorlara yardımcı bir tanı aracı sunan Masaüstü Entegreli bir Karar Destek Sistemi (KDS) çalışmasıdır. Proje, güçlü bir yapay zeka modelini kullanıcı dostu bir masaüstü arayüzü ile uçtan uca birleştirir.
 
 🔬 Teknik Özellikler & Teknoloji Yığını
